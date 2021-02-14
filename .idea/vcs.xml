@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GalleryApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PrimarySchool" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TwitterCloneFragment" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TwitterCloneFragment2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TwitterCloneFragment3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TwitterCloneFragment4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TwitterCloneFragment5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TwitterCloneFragmentFirebaseTest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/android-kotlin-fundamentals-starter-apps" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/camera-samples" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/constraint-layout" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/iosched" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kotlin-coroutines" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/material-color-creator-android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/quickstart-android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zoomsdk" vcs="Git" />
+  </component>
+</project>
